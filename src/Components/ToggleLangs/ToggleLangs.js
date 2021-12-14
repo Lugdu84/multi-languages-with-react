@@ -8,8 +8,8 @@ export default function ToggleLangs() {
   return (
     <div className='container-langs'>
       <img src={FrenchFlag} alt="french flag" />
-      <img src={EnglishFlag} alt="french flag" />
-      <img src={SpanishFlag} alt="french flag" />
+      <img src={EnglishFlag} alt="english flag" />
+      <img src={SpanishFlag} alt="spanish flag" />
     </div>
   )
 }
